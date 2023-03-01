@@ -11,3 +11,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </BrowserRouter>
   </React.StrictMode>
 );
+// вказуємо basename із назвою репозиторія аби задеплоїти живу сторіку на гітхаб
